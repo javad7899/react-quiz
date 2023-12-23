@@ -2,7 +2,6 @@
 
 This is a simple quiz app made with React and json-server. It allows you to see your remaining time, see their score at the end and also the most points you have earned so far.
 
-
 ## Features
 
 -   View quiz questions and options
@@ -11,7 +10,6 @@ This is a simple quiz app made with React and json-server. It allows you to see 
 -    View the highest score
 
 ## Usage
-
 
 ### Install Dependencies
 
